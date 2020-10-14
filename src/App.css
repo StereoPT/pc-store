@@ -1,9 +1,9 @@
 :root {
-  --mainBlue: #2a2a72;
-  --lightBlue: #009ffd;
-  --mainWhite: #f3f3f3;
-  --mainDark: #232528;
-  --mainYellow: #ffa400;
+  --mainGreen: #89B0AE;
+  --lightGreen: #BEE3DB;
+  --mainWhite: #FAF9F9;
+  --mainDark: #555B6E;
+  --mainPeach: #FFD6BA;
 }
 
 body {
@@ -18,10 +18,14 @@ body {
   text-transform: uppercase;
 }
 
-.text-blue {
-  color: var(--mainBlue);
+.text-green {
+  color: var(--mainGreen);
 }
 
 .text-bright {
-  color: var(--lightBlue);
+  color: var(--lightGreen);
+}
+
+.text-peach {
+  color: var(--mainPeach);
 }
