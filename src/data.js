@@ -1,7 +1,7 @@
 export const storeProducts = [
     {
         id: 1,
-        title: 'Portátil MSI 14" Modern',
+        title: 'MSI 14" Modern',
         img: 'img/product-1.png',
         price: 749.90,
         company: 'MSI',
@@ -12,7 +12,7 @@ export const storeProducts = [
     },
     {
         id: 2,
-        title: 'Portátil LG Gram 15"',
+        title: 'LG Gram 15"',
         img: 'img/product-2.png',
         price: 1249.90,
         company: 'LG',
@@ -23,7 +23,7 @@ export const storeProducts = [
     },
     {
         id: 3,
-        title: 'Portátil HP Laptop 15"',
+        title: 'HP Laptop 15"',
         img: 'img/product-3.png',
         price: 329.90,
         company: 'HP',
@@ -34,7 +34,7 @@ export const storeProducts = [
     },
     {
         id: 4,
-        title: 'Portátil Lenovo Legion 5i 15"',
+        title: 'Legion 5i 15"',
         img: 'img/product-4.png',
         price: 899.90,
         company: 'Lenovo',
@@ -45,7 +45,7 @@ export const storeProducts = [
     },
     {
         id: 5,
-        title: 'Portátil MSI 15" GL65 Leopard',
+        title: 'GL65 Leopard',
         img: 'img/product-5.png',
         price: 1899.90,
         company: 'MSI',
@@ -56,7 +56,7 @@ export const storeProducts = [
     },
     {
         id: 6,
-        title: 'Portátil Omen 15"',
+        title: 'Omen 15"',
         img: 'img/product-6.png',
         price: 999.90,
         company: 'HP',
@@ -67,7 +67,7 @@ export const storeProducts = [
     },
     {
         id: 7,
-        title: 'Portátil Asus Gaming Laptop 15"',
+        title: 'Asus Gaming 15"',
         img: 'img/product-7.png',
         price: 1099.90,
         company: 'Asus',
@@ -78,7 +78,7 @@ export const storeProducts = [
     },
     {
         id: 8,
-        title: 'Portátil Lenovo IdeaPad 14"',
+        title: 'IdeaPad 14"',
         img: 'img/product-8.png',
         price: 999.90,
         company: 'Lenovo',
@@ -91,7 +91,7 @@ export const storeProducts = [
 
 export const detailProduct = {
     id: 1,
-    title: 'Portátil MSI 14" Modern',
+    title: 'MSI 14" Modern',
     img: 'img/product-1.png',
     price: 749.90,
     company: 'MSI',
